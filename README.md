@@ -5,3 +5,4 @@
 
 
 ## [Word Document Submission](HW3-submission-doc.docx)
+## [PDF Document Submission](HW3-submission-doc-pdf.pdf)
